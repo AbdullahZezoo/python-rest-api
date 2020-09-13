@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5f5ded1d83e49adef183e122"},"CMOO1":{"product_type":"small_machine","type":"base_model","water_line_compatible":false}},
+{"_id":{"$oid":"5f5dee7883e49adef183e123"},"CM002":{"product_type":"small_machine","type":"premium_model","water_line_compatible":false}},
+{"_id":{"$oid":"5f5deeea83e49adef183e124"},"CM003":{"product_type":"small_machine","type":"deluxe\tmodel","water_line_compatible":true}},
+{"_id":{"$oid":"5f5def7183e49adef183e125"},"CM101":{"product_type":"large_machine","type":"base_model","water_line_compatible":false}},
+{"_id":{"$oid":"5f5defe783e49adef183e126"},"CM102":{"product_type":"large_machine","type":"premium_model","water_line_compatible":true}},
+{"_id":{"$oid":"5f5df04c83e49adef183e127"},"CM103":{"product_type":"large_machine","type":"deluxe_model","water_line_compatible":true}},
+{"_id":{"$oid":"5f5df0df83e49adef183e128"},"EM001":{"product_type":"espresso_machine","type":"base_model","water_line_compatible":false}},
+{"_id":{"$oid":"5f5df21483e49adef183e12a"},"EM003":{"product_type":"espresso_machine","type":"deluxe_model","water_line_compatible":true}}
